@@ -1,5 +1,5 @@
 # WifiDump
-Wireless Network (WLAN) stored SSID and Password dumper for windows.
+Wireless Network SSID and Password dumper for Windows.
 
 The executable will run silently (no indication other than cursor loading icon), and will create a .txt in the directory
 in which it is run, containing all Wireless Network SSIDs and their respective passwords that the host machine has been
