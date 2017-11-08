@@ -12,3 +12,5 @@ While running, the program creates an 'tempSSIDs.txt' file, which is contains on
 This will be deleted if the program runs successfully, being replaced instead by the SSID_PASS_DUMP text file.
 
 Note: Make sure that the respective network card is attached to the computer, or else no dump file will be created.
+
+![alt text](https://raw.githubusercontent.com/FinWarman/WifiDump/master/screenshot.JPG)
